@@ -23,6 +23,8 @@ This post is here to serve a few small, yet important goals:
 
 As a living human being (at least the last time I checked), I am a big fan of things like emotional intelligence, and mental micro-adjustments as a process, to become a better person over time. But it's easy to get lost in the weeds of analyzing problem points in order to self-improve. I was bad about doing this. It took a few major shifts in perspective for me to truly relax and stop beating myself up over small things that have little impact on the world at large.
 
-#### `Update, May 15th`
+### Update, May 15th
 
 This website's theme and content are now set up to be synchronized to and from Github (and through that, my home computer). This little accomplishment is a good feeling, as it will aid my journey in both publishing content, as well as the eventual design of the site! Yay!
+
+Having a near-zero audience with this blog post has some interesting effects... Such as feeling like I'm talking to myself (hello me). I do love the feeling of accomplishment I get after publishing updates, though.
